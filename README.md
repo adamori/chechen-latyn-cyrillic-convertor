@@ -1,6 +1,5 @@
 # Chechen language latyn -> cyrillic convertor
-University Of Tartu HW
-https://github.com/markarenin/chechen-latyn-cyrillic-convertor
+Download: https://github.com/markarenin/chechen-latyn-cyrillic-convertor/releases/tag/release
 
 Example:
 |Cyrillic|Latin|English translation|
