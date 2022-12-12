@@ -1,4 +1,4 @@
-# chechen-latyn-cyrillic-convertor
+# Chechen language latyn -> cyrillic convertor
 University Of Tartu HW
 https://github.com/markarenin/chechen-latyn-cyrillic-convertor
 
